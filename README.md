@@ -115,7 +115,7 @@ root project directory.
 |SwAV Kinetics 200 | SwAV | Kinetics | 1.3M | 200 | [Link](https://prior-model-weights.s3.us-east-2.amazonaws.com/contrastive_encoders/SWAVKinetics.pt)|
 |SwAV Taskonomy 200 | SwAV | Taskonomy | 1.3M | 200 | [Link](https://prior-model-weights.s3.us-east-2.amazonaws.com/contrastive_encoders/SWAVTaskonomy.pt)|
 |SwAV Combination 200 | SwAV | Combination | 1.3M | 200 | [Link](https://prior-model-weights.s3.us-east-2.amazonaws.com/contrastive_encoders/SWAVCombination.pt)|
-|MoCov2 ImageNet 100 | MoCov2 | ImageNet | 1.3M | Yes|[Link](https://prior-model-weights.s3.us-east-2.amazonaws.com/contrastive_encoders/MoCov2_100.pt)|
+|MoCov2 ImageNet 100 | MoCov2 | ImageNet | 1.3M | 100 |[Link](https://prior-model-weights.s3.us-east-2.amazonaws.com/contrastive_encoders/MoCov2_100.pt)|
 |MoCov2 ImageNet 50 | MoCov2 | ImageNet | 1.3M | 50 | [Link](https://prior-model-weights.s3.us-east-2.amazonaws.com/contrastive_encoders/MoCov2_50.pt)|
 |MoCov2 Half ImageNet 200 | MoCov2 | ImageNet-1/2 | 0.5M | 200 | [Link](https://prior-model-weights.s3.us-east-2.amazonaws.com/contrastive_encoders/MoCov2HalfImagenet.pt)|
 |MoCov2 Half ImageNet 100 | MoCov2 | ImageNet-1/2 | 0.5M | 100 | [Link](https://prior-model-weights.s3.us-east-2.amazonaws.com/contrastive_encoders/MoCov2HalfImagenet_100.pt)|
